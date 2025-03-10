@@ -192,6 +192,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | AgentOps      | Python SDK for AI agent monitoring.                                                                      | [Link](https://github.com/AgentOps-AI/agentops) |
 | Langroid      | Multi-Agent framework.                                                                                   | [Link](https://github.com/langroid/langroid) |
 | Agentarium    | Framework for creating and managing simulations populated with AI-powered agents.                        | [Link](https://github.com/Thytu/Agentarium) |
+| Upsonic       | Reliable AI agent framework that supports MCP.                                                          | [Link](https://github.com/upsonic/upsonic) |
 
 
 ## LLM Evaluation
