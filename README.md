@@ -223,6 +223,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 
 | Library              | Description                                                                                       | Link  |
 |----------------------|-------------------------------------------------------------------------------------------------|-------|
+| Langfuse                | Open Source LLM Application / Agent Tracing, Evaluation and Prompt Management          | [Link](https://github.com/langfuse/langfuse) |
 | Opik                | An open-source end-to-end LLM Development Platform which also includes LLM monitoring.          | [Link](https://github.com/comet-ml/opik) |
 | LangSmith           | Provides tools for logging, monitoring, and improving your LLM applications.                     | [Link](https://github.com/langchain-ai/langsmith-sdk) |
 | Weights & Biases (W&B) | W&B provides features for tracking LLM performance.                                          | [Link](https://github.com/wandb) |
