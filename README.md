@@ -217,7 +217,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | AgentEvals | Evaluators and utilities for evaluating the performance of your agents.                                         | [Link](https://github.com/langchain-ai/agentevals) |
 | LLMBox     | A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation. | [Link](https://github.com/RUCAIBox/LLMBox) |
 | Opik       | An open-source end-to-end LLM Development Platform which also includes LLM evaluation.                           | [Link](https://github.com/comet-ml/opik) |
-
+| Eureka     | A framework for standardizing evaluations of large foundation models, beyond single-score reporting and rankings. | [Link](https://github.com/microsoft/eureka-ml-insights) |
 
 
 ## LLM Monitoring
@@ -269,7 +269,8 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | LLM Guard     | The Security Toolkit for LLM Interactions. | [Link](https://github.com/protectai/llm-guard) |
 | AuditNLG      | AuditNLG is an open-source library that can help reduce the risks associated with using generative AI systems for language. | [Link](https://github.com/salesforce/AuditNLG) |
 | NeMo Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | [Link](https://github.com/NVIDIA/NeMo-Guardrails) |
-| Garak        | LLM vulnerability scanner | [Link](https://github.com/NVIDIA/garak) |
+| Garak         | LLM vulnerability scanner | [Link](https://github.com/NVIDIA/garak) |
+| PyRIT         | AI Red Teaming tool for multimodal safety and security risk assessment | [Link](https://github.com/Azure/PyRIT) |
 
 
 ## LLM Embedding Models
