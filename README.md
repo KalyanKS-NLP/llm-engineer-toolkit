@@ -61,6 +61,13 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | Weave        | Weave is a toolkit for developing Generative AI applications.                                          | [Link](https://github.com/wandb/weave) |
 | Llama Stack  | Build Llama Apps.                                                                                      | [Link](https://github.com/meta-llama/llama-stack) |
 
+
+<p align = "center"> <b> Data Preparation </b> </p>
+
+| Library        | Description                                                                                               | Link  |
+|--------------|------------------------------------------------------------------------------------------------------|-------|
+| Data Prep Kit | Data Prep Kit accelerates unstructured data preparation for LLM app developers. Developers can use Data Prep Kit to cleanse, transform, and enrich use case-specific unstructured data to pre-train LLMs, fine-tune LLMs, instruct-tune LLMs, or build RAG applications. | [Link](https://github.com/data-prep-kit/data-prep-kit) | 
+
 <p align = "center"> <b> Multi API Access </b> </p>
 
 | Library        | Description                                                                                               | Link  |
@@ -81,6 +88,8 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 |--------------|------------------------------------------------------------------------------------------------------|-------|
 | mem0         | The Memory layer for your AI apps.                                                                     | [Link](https://github.com/mem0ai/mem0) |
 | Memoripy     | An AI memory layer with short- and long-term storage, semantic clustering, and optional memory decay for context-aware applications. | [Link](https://github.com/caspianmoon/memoripy) |
+| Letta (MemGPT)     | An open-source framework for building stateful LLM applications with advanced reasoning capabilities and transparent long-term memory | [Link](https://github.com/letta-ai/letta) |
+| Memobase     | A user profile-based memory system designed to bring long-term user memory to your Generative AI applications. | [Link](https://github.com/memodb-io/memobase) |
 
 <p align = "center"> <b> Interface </b> </p>
 
@@ -179,6 +188,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | AutoGen       | An open-source framework for building AI agent systems.                                                  | [Link](https://github.com/microsoft/autogen) |
 | Smolagents    | Library to build powerful agents in a few lines of code.                                                 | [Link](https://github.com/huggingface/smolagents) |
 | Pydantic AI | Python agent framework to build production grade applications with Generative AI. | [Link](https://ai.pydantic.dev/) |
+| BeeAI | Build production-ready multi-agent systems in Python. | [Link](https://github.com/i-am-bee/beeai-framework/tree/main/python) | 
 | gradio-tools  | A Python library for converting Gradio apps into tools that can be leveraged by an LLM-based agent to complete its task. | [Link](https://github.com/freddyaboulton/gradio-tools) |
 | Composio      | Production Ready Toolset for AI Agents.                                                                  | [Link](https://github.com/ComposioHQ/composio) |
 | Atomic Agents | Building AI agents, atomically.                                                                         | [Link](https://github.com/BrainBlend-AI/atomic-agents) |
@@ -270,6 +280,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | AuditNLG      | AuditNLG is an open-source library that can help reduce the risks associated with using generative AI systems for language. | [Link](https://github.com/salesforce/AuditNLG) |
 | NeMo Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | [Link](https://github.com/NVIDIA/NeMo-Guardrails) |
 | Garak         | LLM vulnerability scanner | [Link](https://github.com/NVIDIA/garak) |
+| DeepTeam      | The LLM Red Teaming Framework | [Link](https://github.com/confident-ai/deepteam)|
 | PyRIT         | AI Red Teaming tool for multimodal safety and security risk assessment | [Link](https://github.com/Azure/PyRIT) |
 
 
