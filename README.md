@@ -13,6 +13,17 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 	
 </p>
 
+## Stay Updated with Generative AI, LLMs, Agents and RAG.
+
+Join 🚀 [**AIxFunda** newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
+- ✨ Weekly GenAI updates
+- 📄 Weekly LLM, Agents and RAG paper updates
+- 📝 1 fresh blog post on an interesting topic every week
+
+               
+
+[![AIxFunda Newsletter](Images/AIxFunda.png)](https://aixfunda.substack.com/)
+
 ## Quick links
 ||||
 |---|---|---|
