@@ -34,7 +34,8 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models) | [❇️ Others](#others) |
 
 ## Related Repositories
-- 🚀[RAG Zero to Hero Guide](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)  - Comprehensive guide to learn RAG from basics to advanced.
+- 🚀[Prompt Engineering Techniques Hub](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub)  - 25+ prompt engineering techniques with LangChain implementations.
+- 🩸[LLM, RAG and Agents Survey Papers Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) - Category wise collection of 200+ survey papers.
 
 
 ## LLM Training and Fine-Tuning
