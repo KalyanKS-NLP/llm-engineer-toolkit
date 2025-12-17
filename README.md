@@ -18,11 +18,14 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
 - ✨ Weekly GenAI updates
 - 📄 Weekly LLM, Agents and RAG paper updates
-- 📝 1 fresh blog post on an interesting topic every week
-
-               
+- 📝 1 fresh blog post on an interesting topic every week            
 
 [![AIxFunda Newsletter](Images/AIxFunda.png)](https://aixfunda.substack.com/)
+
+## Related Repositories
+- 👨🏻‍💻[LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) - 100+ LLM interview questions and answers (basic to advanced). 
+- 🚀[Prompt Engineering Techniques Hub](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub)  - 25+ prompt engineering techniques with LangChain implementations.
+- 🩸[LLM, RAG and Agents Survey Papers Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) - Category wise collection of 200+ survey papers.
 
 ## Quick links
 ||||
@@ -33,9 +36,6 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | [🔍 LLM Monitoring](#llm-monitoring) | [📅 LLM Prompts](#llm-prompts) | [📝 LLM Structured Outputs](#llm-structured-outputs) |
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models) | [❇️ Others](#others) |
 
-## Related Repositories
-- 🚀[Prompt Engineering Techniques Hub](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub)  - 25+ prompt engineering techniques with LangChain implementations.
-- 🩸[LLM, RAG and Agents Survey Papers Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) - Category wise collection of 200+ survey papers.
 
 
 ## LLM Training and Fine-Tuning
