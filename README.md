@@ -72,6 +72,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Griptape     | A modular Python framework for building AI-powered applications.                                        | [Link](https://github.com/griptape-ai/griptape) |
 | Weave        | Weave is a toolkit for developing Generative AI applications.                                          | [Link](https://github.com/wandb/weave) |
 | Llama Stack  | Build Llama Apps.                                                                                      | [Link](https://github.com/meta-llama/llama-stack) |
+| Mastra       | TypeScript framework for building AI-powered applications and agents with model routing, workflows, memory, and observability. | [Link](https://github.com/mastra-ai/mastra) |
 
 
 <p align = "center"> <b> Data Preparation </b> </p>
