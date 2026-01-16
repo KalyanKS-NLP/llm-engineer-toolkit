@@ -20,8 +20,6 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 - 📄 Weekly LLM, Agents and RAG paper updates
 - 📝 1 fresh blog post on an interesting topic every week            
 
-[![AIxFunda Newsletter](Images/AIxFunda.png)](https://aixfunda.substack.com/)
-
 ## Related Repositories
 - 👨🏻‍💻[LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) - 100+ LLM interview questions and answers (basic to advanced). 
 - 🚀[Prompt Engineering Techniques Hub](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub)  - 25+ prompt engineering techniques with LangChain implementations.
