@@ -13,17 +13,24 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 	
 </p>
 
-## Stay Updated with Generative AI, LLMs, Agents and RAG.
+## 🚀 LLM Interview Questions and Answers Book 
+Crack modern LLM and Generative AI interviews with this comprehensive, interview-focused guide designed specifically for ML Engineers, AI Engineers, Data Scientists and Software Engineers.
 
-Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
-- ✨ Weekly GenAI updates
-- 📄 Weekly LLM, Agents and RAG paper updates
-- 📝 1 fresh blog post on an interesting topic every week            
+This book features **100+ carefully curated LLM interview questions**, each paired with **clear answers and in-depth explanations** so you truly understand the concepts interviewers care about. [Get the book here](https://kalyanksnlp.gumroad.com/l/llm-interview-questions-answers-book-kalyan-ks). 
+
+![LLM Interview Questions and Answers Book by Kalyan KS](https://github.com/KalyanKS-NLP/llm-engineer-toolkit/blob/main/Images/LLM_Interview_QA_Book_Image_Compress.png)           
 
 ## Related Repositories
 - 👨🏻‍💻[LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) - 100+ LLM interview questions and answers (basic to advanced). 
 - 🚀[Prompt Engineering Techniques Hub](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub)  - 25+ prompt engineering techniques with LangChain implementations.
 - 🩸[LLM, RAG and Agents Survey Papers Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) - Category wise collection of 200+ survey papers.
+
+## Stay Updated with Generative AI, LLMs, Agents and RAG.
+
+Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
+- ✨ Weekly GenAI updates
+- 📄 Weekly LLM, Agents and RAG paper updates
+- 📝 1 fresh blog post on an interesting topic every week
 
 ## Quick links
 ||||
