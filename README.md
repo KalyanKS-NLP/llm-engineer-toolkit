@@ -18,7 +18,7 @@ Crack modern LLM and Generative AI interviews with this comprehensive, interview
 
 This book features **100+ carefully curated LLM interview questions**, each paired with **clear answers and in-depth explanations** so you truly understand the concepts interviewers care about. [Get the book here](https://kalyanksnlp.gumroad.com/l/llm-interview-questions-answers-book-kalyan-ks). 
 
-[**AIxFunda** free newsletter](https://aixfunda.substack.com/) subscribers get an exclusive discount (25%) on the book. (Discount available only for a short period of time). 
+Use the **Coupon Code: LLMQA25** for an exclusive discount (25%) on the book. (Available only for a short period of time). 
 
 ![LLM Interview Questions and Answers Book by Kalyan KS](https://github.com/KalyanKS-NLP/llm-engineer-toolkit/blob/main/Images/LLM_Interview_QA_Book_Image_Compress.png)           
 
