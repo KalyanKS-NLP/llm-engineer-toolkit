@@ -282,6 +282,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | DSPy              | DSPy is the open-source framework for programming—rather than prompting—language models.                      | [Link](https://github.com/stanfordnlp/dspy) |
 | Py-priompt        | Prompt design library.                                                                                        | [Link](https://github.com/zenbase-ai/py-priompt) |
 | Promptimizer      | Prompt optimization library.                                                                                  | [Link](https://github.com/hinthornw/promptimizer) |
+| Exemplar Prompt Hub | Centralised Prompt Management APIs 											     | [Link](https://github.com/shubhanshusingh/exemplar-prompt-hub)
 
 
 ## LLM Structured Outputs
