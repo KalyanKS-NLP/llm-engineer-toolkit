@@ -306,6 +306,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | NeMo Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | [Link](https://github.com/NVIDIA/NeMo-Guardrails) |
 | Garak        | LLM vulnerability scanner | [Link](https://github.com/NVIDIA/garak) |
 | DeepTeam | The LLM Red Teaming Framework | [Link](https://github.com/confident-ai/deepteam)|
+| LangFair | Use-case-specific LLM bias/fairness assessments | [Link](https://github.com/cvs-health/langfair)|
 
 
 ## LLM Embedding Models
