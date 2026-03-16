@@ -110,6 +110,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Memoripy     | An AI memory layer with short- and long-term storage, semantic clustering, and optional memory decay for context-aware applications. | [Link](https://github.com/caspianmoon/memoripy) |
 | Letta (MemGPT)     | An open-source framework for building stateful LLM applications with advanced reasoning capabilities and transparent long-term memory | [Link](https://github.com/letta-ai/letta) |
 | Memobase     | A user profile-based memory system designed to bring long-term user memory to your Generative AI applications. | [Link](https://github.com/memodb-io/memobase) |
+| widemem-ai   | Open-source AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization. | [Link](https://github.com/remete618/widemem-ai) |
 
 <p align = "center"> <b> Interface </b> </p>
 
