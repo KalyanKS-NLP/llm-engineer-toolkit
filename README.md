@@ -13,25 +13,6 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 	
 </p>
 
-## 🚀 How to Read an AI Research Paper Effectively  (AI Research Webinar)
-
-In this webinar, you will learn a simple yet effective step-by-step approach to read and understand AI research papers without getting overwhelmed.
-
-This webinar covers
-- How to get a quick high level overview of the paper?
-- How to dive deep into the paper step-by-step?
-- Common mistakes to avoid while reading papers
-- Skimming vs deep reading: when and how
-
-**Webinar Format**: 45 - 50 min session + 10 - 15 min Q&A
-
-**Webinar Date & Time**:  April 8 2026, 9PM (IST)
-
-**Speaker**: [Kalyan KS, NLP Consultant and Researcher, 1600+ Citations](https://www.linkedin.com/in/kalyanksnlp/)
-
-[**Register**](https://topmate.io/kalyan_ksnlp/2021496)
-
-
 ## Related Repositories
 - 👨🏻‍💻[LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) - 100+ LLM interview questions and answers (basic to advanced). 
 - 🚀[Prompt Engineering Techniques Hub](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub)  - 25+ prompt engineering techniques with LangChain implementations.
