@@ -13,6 +13,20 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 	
 </p>
 
+## AI Research Workflow (Webinar)
+
+In this webinar, you will learn how to do AI research step-by-step. [Register](https://topmate.io/kalyan_ksnlp/2033856)
+
+This webinar covers the different phases in AI Research workflow
+
+- Learning Research Pre-Requisites
+- Research Problem Selection
+- Research Gaps Identification
+- Research Idea Formulation
+- Research Idea Implementation
+- Conference / Journal Selection
+- Research Paper Writing
+
 ## Related Repositories
 - 👨🏻‍💻[LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) - 100+ LLM interview questions and answers (basic to advanced). 
 - 🚀[Prompt Engineering Techniques Hub](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub)  - 25+ prompt engineering techniques with LangChain implementations.
