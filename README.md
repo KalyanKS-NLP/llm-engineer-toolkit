@@ -71,6 +71,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | DeepSpeed         | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | [Link](https://github.com/deepspeedai/DeepSpeed) |
 | torchtune         | A PyTorch-native library specifically designed for fine-tuning LLMs.                             | [Link](https://github.com/pytorch/torchtune) |
 | PyTorch Lightning | A library that offers a high-level interface for pretraining and fine-tuning LLMs.               | [Link](https://github.com/Lightning-AI/pytorch-lightning) |
+| RapidFire AI      | Rapid AI experimentation framework for fine-tuning and post-training LLMs (SFT, DPO, GRPO) with hyperparallelized execution and real-time interactive control. | [Link](https://github.com/RapidFireAI/rapidfireai) |
 
 
 ## LLM Application Development
@@ -156,6 +157,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Llmware       | Unified framework for building enterprise RAG pipelines with small, specialized models.                        | [Link](https://github.com/llmware-ai/llmware) |
 | Rerankers     | A lightweight unified API for various reranking models.                                                        | [Link](https://github.com/AnswerDotAI/rerankers) |
 | Vectara       | Build Agentic RAG applications.                                                                                | [Link](https://vectara.github.io/py-vectara-agentic/latest/) |
+| RapidFire AI  | Rapid AI experimentation framework for RAG and context engineering with hyperparallelized, shard-based execution and real-time interactive control. | [Link](https://github.com/RapidFireAI/rapidfireai) |
 
 
 ## LLM Inference
