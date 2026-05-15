@@ -257,6 +257,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Opik       | An open-source end-to-end LLM Development Platform which also includes LLM evaluation.                           | [Link](https://github.com/comet-ml/opik) |
 | PydanticAI Evals | A powerful evaluation framework designed to help you systematically evaluate the performance of LLM applications. | [Link](https://ai.pydantic.dev/evals/) |
 | UQLM | A Python package for generation-time, zero-resource LLM hallucination using state-of-the-art uncertainty quantification techniques. | [Link](https://github.com/cvs-health/uqlm) |
+| ai-evaluation | Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support. | [Link](https://github.com/future-agi/ai-evaluation) |
 
 
 
@@ -272,6 +273,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Evidently          | An open-source ML and LLM observability framework.                                                | [Link](https://github.com/evidentlyai/evidently) |
 | Phoenix            | An open-source AI observability platform designed for experimentation, evaluation, and troubleshooting. | [Link](https://github.com/Arize-ai/phoenix) |
 | Observers          | A Lightweight Library for AI Observability.                                                       | [Link](https://github.com/cfahlgren1/observers) |
+| traceAI            | Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock) capturing prompts, tokens, latency, and errors. | [Link](https://github.com/future-agi/traceAI) |
 
 
 ## LLM Prompts
