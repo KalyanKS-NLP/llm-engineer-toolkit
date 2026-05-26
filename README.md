@@ -146,7 +146,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Library         | Description                                                                                                      | Link  |
 |---------------|----------------------------------------------------------------------------------------------------------------|-------|
 | FastGraph RAG | Streamlined and promptable Fast GraphRAG framework designed for interpretable, high-precision, agent-driven retrieval workflows. | [Link](https://github.com/circlemind-ai/fast-graphrag) |
-| Chonkie       | RAG chunking library that is lightweight, lightning-fast, and easy to use.                                      | [Link](https://github.com/chonkie-ai/chonkie) |
+| Chonkie       | RAG chunking library that is lightweight, lightning-fast, and easy to use.                                      | [Link](https://github.com/chonkie-inc/chonkie) |
 | RAGChecker    | A Fine-grained Framework For Diagnosing RAG.                                                                   | [Link](https://github.com/amazon-science/RAGChecker) |
 | RAG to Riches | Build, scale, and deploy state-of-the-art Retrieval-Augmented Generation applications.                         | [Link](https://github.com/SciPhi-AI/R2R) |
 | BeyondLLM     | Beyond LLM offers an all-in-one toolkit for experimentation, evaluation, and deployment of Retrieval-Augmented Generation (RAG) systems. | [Link](https://github.com/aiplanethub/beyondllm) |
