@@ -13,14 +13,19 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 	
 </p>
 
-## 🚀 LLM Interview Questions and Answers Book 
-Crack modern LLM and Generative AI interviews with this comprehensive, interview-focused guide designed specifically for ML Engineers, AI Engineers, Data Scientists and Software Engineers.
+## AI Research Workflow (Webinar)
 
-This book features **100+ carefully curated LLM interview questions**, each paired with **clear answers and in-depth explanations** so you truly understand the concepts interviewers care about. [Get the book here](https://kalyanksnlp.gumroad.com/l/llm-interview-questions-answers-book-kalyan-ks). 
+In this webinar, you will learn how to do AI research step-by-step. [Register](https://topmate.io/kalyan_ksnlp/2033856)
 
-Use the **Coupon Code: LLMQA25** for an exclusive discount (25%) on the book. (Available only for a short period of time). 
+This webinar covers the different phases in AI Research workflow
 
-![LLM Interview Questions and Answers Book by Kalyan KS](https://github.com/KalyanKS-NLP/llm-engineer-toolkit/blob/main/Images/LLM_Interview_QA_Book_Image_Compress.png)           
+- Learning Research Pre-Requisites
+- Research Problem Selection
+- Research Gaps Identification
+- Research Idea Formulation
+- Research Idea Implementation
+- Conference / Journal Selection
+- Research Paper Writing
 
 ## Related Repositories
 - 👨🏻‍💻[LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) - 100+ LLM interview questions and answers (basic to advanced). 
@@ -253,6 +258,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Opik       | An open-source end-to-end LLM Development Platform which also includes LLM evaluation.                           | [Link](https://github.com/comet-ml/opik) |
 | PydanticAI Evals | A powerful evaluation framework designed to help you systematically evaluate the performance of LLM applications. | [Link](https://ai.pydantic.dev/evals/) |
 | UQLM | A Python package for generation-time, zero-resource LLM hallucination using state-of-the-art uncertainty quantification techniques. | [Link](https://github.com/cvs-health/uqlm) |
+| ai-evaluation | Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support. | [Link](https://github.com/future-agi/ai-evaluation) |
 
 
 
@@ -268,6 +274,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Evidently          | An open-source ML and LLM observability framework.                                                | [Link](https://github.com/evidentlyai/evidently) |
 | Phoenix            | An open-source AI observability platform designed for experimentation, evaluation, and troubleshooting. | [Link](https://github.com/Arize-ai/phoenix) |
 | Observers          | A Lightweight Library for AI Observability.                                                       | [Link](https://github.com/cfahlgren1/observers) |
+| traceAI            | Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock) capturing prompts, tokens, latency, and errors. | [Link](https://github.com/future-agi/traceAI) |
 
 
 ## LLM Prompts
