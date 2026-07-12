@@ -1,4 +1,4 @@
-# 👨🏻‍💻 LLM Engineer Toolkit 
+# 👨🏻‍💻 LLM Engineer Toolkit
 This repository contains a curated list of 120+ LLM libraries category wise.
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
@@ -10,18 +10,18 @@ This repository contains a curated list of 120+ LLM libraries category wise.
    <a href="https://www.youtube.com/@kalyanksnlp">
     <img src="https://img.shields.io/badge/Kalyan%20KS-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Twitter">
   </a>
-	
+
 </p>
 
 ## Related Repositories
-- 👨🏻‍💻[LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) - 100+ LLM interview questions and answers (basic to advanced). 
+- 👨🏻‍💻[LLM Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) - 100+ LLM interview questions and answers (basic to advanced).
 - 🚀[Prompt Engineering Techniques Hub](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub)  - 25+ prompt engineering techniques with LangChain implementations.
 - 🩸[LLM, RAG and Agents Survey Papers Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) - Category wise collection of 200+ survey papers.
 
 
 ## Stay Updated with Generative AI, LLMs, Agents and RAG.
 
-Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
+Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG.
 - ✨ Weekly GenAI updates
 - 📄 Weekly LLM, Agents and RAG paper updates
 - 📝 1 fresh blog post on an interesting topic every week
@@ -29,9 +29,9 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 ## Quick links
 ||||
 |---|---|---|
-| [🚀 LLM Training](#llm-training-and-fine-tuning) | [🧱 LLM Application Development](#llm-application-development) | [🩸LLM RAG](#llm-rag) | 
+| [🚀 LLM Training](#llm-training-and-fine-tuning) | [🧱 LLM Application Development](#llm-application-development) | [🩸LLM RAG](#llm-rag) |
 | [🟩 LLM Inference](#llm-inference)| [🚧 LLM Serving](#llm-serving) | [📤 LLM Data Extraction](#llm-data-extraction) |
-| [🌠 LLM Data Generation](#llm-data-generation) | [💎 LLM Agents](#llm-agents)|[⚖️ LLM Evaluation](#llm-evaluation) | 
+| [🌠 LLM Data Generation](#llm-data-generation) | [💎 LLM Agents](#llm-agents)|[⚖️ LLM Evaluation](#llm-evaluation) |
 | [🔍 LLM Monitoring](#llm-monitoring) | [📅 LLM Prompts](#llm-prompts) | [📝 LLM Structured Outputs](#llm-structured-outputs) |
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models) | [❇️ Others](#others) |
 
@@ -77,7 +77,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 
 | Library        | Description                                                                                               | Link  |
 |--------------|------------------------------------------------------------------------------------------------------|-------|
-| Data Prep Kit | Data Prep Kit accelerates unstructured data preparation for LLM app developers. Developers can use Data Prep Kit to cleanse, transform, and enrich use case-specific unstructured data to pre-train LLMs, fine-tune LLMs, instruct-tune LLMs, or build RAG applications. | [Link](https://github.com/data-prep-kit/data-prep-kit) | 
+| Data Prep Kit | Data Prep Kit accelerates unstructured data preparation for LLM app developers. Developers can use Data Prep Kit to cleanse, transform, and enrich use case-specific unstructured data to pre-train LLMs, fine-tune LLMs, instruct-tune LLMs, or build RAG applications. | [Link](https://github.com/data-prep-kit/data-prep-kit) |
 
 <p align = "center"> <b> Multi API Access </b> </p>
 
@@ -148,8 +148,8 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 
 | Library         | Description                                                                                               | Link  |
 |---------------|------------------------------------------------------------------------------------------------------|-------|
-| llama.cpp   | LLM inference in C/C++. | [Link](https://github.com/ggml-org/llama.cpp) | 
-| Ollama | Local LLM inference. | [Link](https://github.com/ollama/ollama) | 
+| llama.cpp   | LLM inference in C/C++. | [Link](https://github.com/ggml-org/llama.cpp) |
+| Ollama | Local LLM inference. | [Link](https://github.com/ollama/ollama) |
 | vLLM         | High-throughput and memory-efficient inference and serving engine for LLMs.                            | [Link](https://github.com/vllm-project/vllm) |
 | TensorRT-LLM  | TensorRT-LLM is a library for optimizing Large Language Model (LLM) inference.                        | [Link](https://github.com/NVIDIA/TensorRT-LLM) |
 | WebLLM        | High-performance In-browser LLM Inference Engine.                                                     | [Link](https://github.com/mlc-ai/web-llm) |
@@ -202,7 +202,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Smolagents    | Library to build powerful agents in a few lines of code.                                                 | [Link](https://github.com/huggingface/smolagents) |
 | Pydantic AI | Python agent framework to build production grade applications with Generative AI. | [Link](https://ai.pydantic.dev/) |
 | CAMEL | Open-source multi-agent framework with various toolkits and use-cases available. | [Link](https://github.com/camel-ai/camel) |
-| BeeAI | Build production-ready multi-agent systems in Python. | [Link](https://github.com/i-am-bee/beeai-framework/tree/main/python) | 
+| BeeAI | Build production-ready multi-agent systems in Python. | [Link](https://github.com/i-am-bee/beeai-framework/tree/main/python) |
 | gradio-tools  | A Python library for converting Gradio apps into tools that can be leveraged by an LLM-based agent to complete its task. | [Link](https://github.com/freddyaboulton/gradio-tools) |
 | Composio      | Production Ready Toolset for AI Agents.                                                                  | [Link](https://github.com/ComposioHQ/composio) |
 | Atomic Agents | Building AI agents, atomically.                                                                         | [Link](https://github.com/BrainBlend-AI/atomic-agents) |
@@ -231,7 +231,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Giskard    | Open-Source Evaluation & Testing for ML & LLM systems.                                                           | [Link](https://github.com/Giskard-AI/giskard) |
 | DeepEval | LLM Evaluation Framework | [Link](https://github.com/confident-ai/deepeval) |
 | Lighteval  | All-in-one toolkit for evaluating LLMs.                                                                         | [Link](https://github.com/huggingface/lighteval) |
-| Trulens | Evaluation and Tracking for LLM Experiments | [Link](https://github.com/truera/trulens) | 
+| Trulens | Evaluation and Tracking for LLM Experiments | [Link](https://github.com/truera/trulens) |
 | PromptBench | A unified evaluation framework for large language models.                                                        | [Link](https://github.com/microsoft/promptbench) |
 | LangTest   | Deliver Safe & Effective Language Models. 60+ Test Types for Comparing LLM & NLP Models on Accuracy, Bias, Fairness, Robustness & More. | [Link](https://github.com/JohnSnowLabs/langtest) |
 | EvalPlus   | A rigorous evaluation framework for LLM4Code.                                                                    | [Link](https://github.com/evalplus/evalplus) |
@@ -331,5 +331,5 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KalyanKS-NLP/llm-engineer-toolkit&type=Date)](https://star-history.com/#)
 
-Please consider giving a star, if you find this repository useful. 
+Please consider giving a star, if you find this repository useful.
 
