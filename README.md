@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kalyanks-nlp-llm-engineer-toolkit-badge.png)](https://mseep.ai/app/kalyanks-nlp-llm-engineer-toolkit)
+
 # 👨🏻‍💻 LLM Engineer Toolkit 
 This repository contains a curated list of 120+ LLM libraries category wise.
 <p align="center">
