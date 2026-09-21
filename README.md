@@ -292,6 +292,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | DSPy              | DSPy is the open-source framework for programming—rather than prompting—language models.                      | [Link](https://github.com/stanfordnlp/dspy) |
 | Py-priompt        | Prompt design library.                                                                                        | [Link](https://github.com/zenbase-ai/py-priompt) |
 | Promptimizer      | Prompt optimization library.                                                                                  | [Link](https://github.com/hinthornw/promptimizer) |
+| OrcaPromptVault   | Corpus of production system prompts and tool schemas from 35 shipping AI products; 35 recorded off the wire with a command that reproduces each. | [Link](https://github.com/Continuum-AI-Corp/OrcaPromptVault) |
 
 
 ## LLM Structured Outputs
