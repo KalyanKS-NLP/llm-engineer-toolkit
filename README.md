@@ -114,6 +114,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Tree Ring Memory | Local-first memory lifecycle for AI agents with Rust CLI/TUI, SQLite/FTS recall, audit, consolidation, and forgetting. | [Link](https://github.com/TerminallyLazy/Tree-Ring-Memory) |
 | Letta (MemGPT)     | An open-source framework for building stateful LLM applications with advanced reasoning capabilities and transparent long-term memory | [Link](https://github.com/letta-ai/letta) |
 | Memobase     | A user profile-based memory system designed to bring long-term user memory to your Generative AI applications. | [Link](https://github.com/memodb-io/memobase) |
+| deja-vu      | Local memory over the session files coding agents already write to disk — Claude Code, Codex, Cursor and 31 others — including history from before install; BM25 retrieval, no LLM and no embeddings. | [Link](https://github.com/vshulcz/deja-vu) |
 
 <p align = "center"> <b> Interface </b> </p>
 
