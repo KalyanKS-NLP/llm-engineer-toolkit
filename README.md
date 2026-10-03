@@ -303,6 +303,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Guidance   | Guidance is an efficient programming paradigm for steering language models. | [Link](https://github.com/guidance-ai/guidance) |
 | LMQL      | A language for constraint-guided and efficient LLM programming. | [Link](https://github.com/eth-sri/lmql) |
 | Jsonformer | A Bulletproof Way to Generate Structured JSON from Language Models. | [Link](https://github.com/1rgs/jsonformer) |
+| jebadiah-decide | Typed choice, yes/no and score decisions with a calibrated probability per option from a Jebadiah model, on llama-server, Ollama, LM Studio, vLLM or MLX. | [Link](https://github.com/getainode/jebadiah) |
 
 
 ## LLM Safety and Security
