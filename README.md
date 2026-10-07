@@ -170,6 +170,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | LLM Compressor | Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment. | [Link](https://github.com/vllm-project/llm-compressor) |
 | LightLLM      | Python-based LLM inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance. | [Link](https://github.com/ModelTC/lightllm) |
 | torchchat     | Run PyTorch LLMs locally on servers, desktop, and mobile.                                              | [Link](https://github.com/pytorch/torchchat) |
+| llmash        | Ollama-compatible server on a llama.cpp fork with CUDA kernels for speculative decoding; keeps Ollama's API and model store. | [Link](https://github.com/omgitsbase/llmash) |
 
 
 ## LLM Serving
