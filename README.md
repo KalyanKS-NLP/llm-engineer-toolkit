@@ -279,6 +279,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Phoenix            | An open-source AI observability platform designed for experimentation, evaluation, and troubleshooting. | [Link](https://github.com/Arize-ai/phoenix) |
 | Observers          | A Lightweight Library for AI Observability.                                                       | [Link](https://github.com/cfahlgren1/observers) |
 | traceAI            | Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock) capturing prompts, tokens, latency, and errors. | [Link](https://github.com/future-agi/traceAI) |
+| ssestitch          | Zero-dependency CLI and Python library that reassembles streamed LLM responses (OpenAI-compatible incl. DeepSeek, Anthropic, Responses API, Gemini, Ollama) into the final message, with merged and JSON-validated tool-call arguments, reasoning, token usage, TTFT and tokens/sec. | [Link](https://github.com/Yi-111-a/ssestitch) |
 
 
 ## LLM Prompts
