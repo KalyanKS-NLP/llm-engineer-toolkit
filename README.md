@@ -114,6 +114,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Tree Ring Memory | Local-first memory lifecycle for AI agents with Rust CLI/TUI, SQLite/FTS recall, audit, consolidation, and forgetting. | [Link](https://github.com/TerminallyLazy/Tree-Ring-Memory) |
 | Letta (MemGPT)     | An open-source framework for building stateful LLM applications with advanced reasoning capabilities and transparent long-term memory | [Link](https://github.com/letta-ai/letta) |
 | Memobase     | A user profile-based memory system designed to bring long-term user memory to your Generative AI applications. | [Link](https://github.com/memodb-io/memobase) |
+| LLMSlim      | Long-term memory for AI agents with no LLM call: stores messages word for word in SQLite or Postgres and recalls what answers a question within a token budget. MCP server plus LangChain, LlamaIndex, Haystack and Pydantic AI adapters. | [Link](https://github.com/Thanatos9404/llmslim) |
 
 <p align = "center"> <b> Interface </b> </p>
 
