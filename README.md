@@ -237,6 +237,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Langroid      | Multi-Agent framework.                                                                                   | [Link](https://github.com/langroid/langroid) |
 | Agentarium    | Framework for creating and managing simulations populated with AI-powered agents.                        | [Link](https://github.com/Thytu/Agentarium) |
 | Upsonic       | Reliable AI agent framework that supports MCP.                                                          | [Link](https://github.com/upsonic/upsonic) |
+| deed.page     | Agent skill and remote MCP server that let an agent publish static HTML or a small site to a public URL. | [Link](https://github.com/f-o-x11/deed-page-skill) |
 
 
 ## LLM Evaluation
