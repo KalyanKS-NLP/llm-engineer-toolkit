@@ -237,6 +237,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Langroid      | Multi-Agent framework.                                                                                   | [Link](https://github.com/langroid/langroid) |
 | Agentarium    | Framework for creating and managing simulations populated with AI-powered agents.                        | [Link](https://github.com/Thytu/Agentarium) |
 | Upsonic       | Reliable AI agent framework that supports MCP.                                                          | [Link](https://github.com/upsonic/upsonic) |
+| Heym | Self-hosted agent workflow runtime with human approval checkpoints, MCP tools, execution traces, and evaluations. Source-available under MIT with Commons Clause. | [Link](https://github.com/heymrun/heym) |
 
 
 ## LLM Evaluation
