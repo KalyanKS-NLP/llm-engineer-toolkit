@@ -194,6 +194,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Crawlee        | A web scraping and browser automation library.                                                                                         | [Link](https://github.com/apify/crawlee-python) |
 | MegaParse      | Parser for every type of document.                                                                                                    | [Link](https://github.com/quivrhq/megaparse) |
 | ExtractThinker | Document Intelligence library for LLMs.                                                                                               | [Link](https://github.com/enoch3712/ExtractThinker) |
+| Bowmark        | Hosted MCP server (plus a LangChain package) that gives agents typed functions for real websites (Amazon, LinkedIn, YouTube, Reddit, Airbnb and more), returning JSON and tested on a schedule. Free $10 to start. | [Link](https://github.com/bowmark-ai/mcp) |
 
 
 ## LLM Data Generation
