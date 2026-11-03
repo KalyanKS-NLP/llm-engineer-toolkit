@@ -321,6 +321,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Garak        | LLM vulnerability scanner | [Link](https://github.com/NVIDIA/garak) |
 | DeepTeam | The LLM Red Teaming Framework | [Link](https://github.com/confident-ai/deepteam)|
 | LangFair | Use-case-specific LLM bias/fairness assessments | [Link](https://github.com/cvs-health/langfair)|
+| Tracekit | Policy gate and signed record for AI agent tool calls: a signer outside the agent allows, denies or holds each call for a person to approve, and signs every call into a hash chain that verifies offline. | [Link](https://github.com/Cygnux-Labs/Tracekit) |
 
 
 ## LLM Embedding Models
