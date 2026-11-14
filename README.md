@@ -347,6 +347,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | LLMSanitize            | An open-source library for contamination detection in NLP datasets and Large Language Models (LLMs). | [Link](https://github.com/ntunlp/LLMSanitize) |
 | Annotateai             | Automatically annotate papers using LLMs. | [Link](https://github.com/neuml/annotateai) |
 | LLM Reasoner          | Make any LLM think like OpenAI o1 and DeepSeek R1. | [Link](https://github.com/harishsg993010/LLM-Reasoner) |
+| json-schema-for-llms | Turns large JSON into a compact JSON Schema with field types, frequencies, value ranges and real examples, so a model sees the shape instead of the data (936,288 → 541 tokens on a 20,000-order test file). TypeScript, no dependencies. | [Link](https://github.com/carmenaresearch/json-schema-for-llms) |
 
 
 ## ⭐️ Star History
