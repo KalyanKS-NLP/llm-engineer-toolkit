@@ -194,6 +194,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Crawlee        | A web scraping and browser automation library.                                                                                         | [Link](https://github.com/apify/crawlee-python) |
 | MegaParse      | Parser for every type of document.                                                                                                    | [Link](https://github.com/quivrhq/megaparse) |
 | ExtractThinker | Document Intelligence library for LLMs.                                                                                               | [Link](https://github.com/enoch3712/ExtractThinker) |
+| GetYouTubeTranscript | Python SDK for YouTube video transcripts (timestamps, any caption language) plus search, channel and playlist data, for LLM and RAG pipelines. | [Link](https://github.com/tubeagentkit/youtube-transcript-api-python) |
 
 
 ## LLM Data Generation
