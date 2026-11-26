@@ -261,6 +261,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | UQLM | A Python package for generation-time, zero-resource LLM hallucination using state-of-the-art uncertainty quantification techniques. | [Link](https://github.com/cvs-health/uqlm) |
 | ai-evaluation | Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support. | [Link](https://github.com/future-agi/ai-evaluation) |
 | StructEval | Benchmark and evaluation framework for LLM-generated structured outputs across 18 formats, with structural and visual evaluation. | [Link](https://github.com/TIGER-AI-Lab/StructEval) |
+| EvalShift | Regression testing for model changes: runs the same test cases, or recorded agent runs, on the current and a candidate model and reports output and tool-call regressions with paired statistics. | [Link](https://github.com/evalshift/evalshift-cli) |
 
 
 
