@@ -237,6 +237,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 | Langroid      | Multi-Agent framework.                                                                                   | [Link](https://github.com/langroid/langroid) |
 | Agentarium    | Framework for creating and managing simulations populated with AI-powered agents.                        | [Link](https://github.com/Thytu/Agentarium) |
 | Upsonic       | Reliable AI agent framework that supports MCP.                                                          | [Link](https://github.com/upsonic/upsonic) |
+| Coral         | Open-source, self-hosted execution layer for agents, more than an MCP gateway. Checks every tool call against Allow, Ask or Block rules, and lets agents save working code as reusable custom tools. | [Link](https://github.com/withcoral/coral) |
 
 
 ## LLM Evaluation
